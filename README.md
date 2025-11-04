@@ -1,5 +1,11 @@
 # Weather App (Flutter)
 
+DEMO
+
+
+https://github.com/user-attachments/assets/81be2d16-77e5-418c-b3e6-77688f432dbd
+
+
 This is a minimal Flutter app that fetches live weather using the device's geolocation and the OpenWeatherMap API.
 
 Features
